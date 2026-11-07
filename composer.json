@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/tajweed-php-noon-sakinah-fsm",
+  "description": "Noon Sakinah & Tanween Finite-State Rule Automaton (آلة الحالة المحدودة لأحكام النون الساكنة والتنوين)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
